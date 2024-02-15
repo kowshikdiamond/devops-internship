@@ -1,4 +1,4 @@
-Day - 2 : 07/02/2024
+Day - 3 : 07/02/2024
 
 Given Task: Write a shell script to Install nginx offline and run a custom webpage on remote server.
 

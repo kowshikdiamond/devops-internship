@@ -1,3 +1,5 @@
+Day - 6 : 12/02/2024
+
 # Create a docker private registry
 
 ## On EC2 instance-1:

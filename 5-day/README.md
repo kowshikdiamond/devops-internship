@@ -1,3 +1,5 @@
+Day - 5 : 09/02/2024
+
 # RHEL UPGRADATION 
 
 Verify that the system is subscribed using subscription-manager: 
